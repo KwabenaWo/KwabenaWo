@@ -28,7 +28,7 @@ and sustain appropriate work relationships with colleagues.
  
  🌱 I’m currently learning **Advanced Data Analytics**
 
-💬 Ask me about **Python**
+💬 Ask me about **Data Science**
 
 📧 Reach me out: Jr.wordie@yahoo.com
 
@@ -36,8 +36,8 @@ and sustain appropriate work relationships with colleagues.
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github" />
-    <img src="https://skillicons.dev/icons?i=python,mysql,javascript," /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,github" />
+    <img src="https://skillicons.dev/icons?i=python,mysql,tensorflow,opencv,sklearn,selenium" /><br>
 </div>
 
 <br/>
